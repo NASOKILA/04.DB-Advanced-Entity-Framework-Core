@@ -14,7 +14,7 @@
                 //NE STAVA KATO NAPISHA updata-database I ZATOVA PRAVA TAKA !!!
 
                 db.Database.EnsureDeleted();
-                //Suzdavame si bazata kato runvame programata
+                //Suzdavame si bazata kato runvame programata 
                 db.Database.EnsureCreated();
 
 
